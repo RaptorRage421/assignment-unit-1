@@ -1,13 +1,56 @@
 /* Add a background color to the header element */
+header {background-color: gold;}
+h3 {color: red;
+    font-size: 56px;
+    font-variant: small-caps;
+    text-align: center;
+    animation: animate 1.0s linear infinite;
+}
 
+@keyframes animate{ 
+    0%{ 
+      opacity: 0; 
+    } 
+    50%{ 
+      opacity: 0.7; 
+    } 
+    100%{ 
+      opacity: 0; 
+    } 
+  } 
 /* Add a fun background color to the main element */
-
+main {background-color: blueviolet;}
 /* Align the h1 containing your name in the center of the header*/
+h1 { color:rgb(41, 7, 233);
+    text-align: center;
+    font-variant: small-caps;
+
+}
+
+
+
+
 
 /* Make your p tag a different color and italic */
+p {
+color:aqua;
 
+
+
+}
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+li {
+font-family: monospace;
+font-size: large;
 
+
+}
 /* Add a background color to the footer element */
+footer {
+background-color: black;
+
+
+}
+

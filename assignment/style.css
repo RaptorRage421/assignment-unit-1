@@ -33,14 +33,16 @@ h1 { color:rgb(41, 7, 233);
 
 /* Make your p tag a different color and italic */
 p {
-color:aqua;
+color: gold;
+font-style: italic;
+font-family: cursive;
 
 
 
 }
 /* Put a border around your image */
 img {
-    border: 3px;
+    border: 5px solid yellow;
 
 
 

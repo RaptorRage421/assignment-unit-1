@@ -21,13 +21,19 @@ h3 {color: red;
 /* Add a fun background color to the main element */
 main {background-color: blueviolet;}
 /* Align the h1 containing your name in the center of the header*/
-h1 { color:rgb(41, 7, 233);
+h1 { color: blueviolet;
     text-align: center;
     font-variant: small-caps;
 
 }
 
+h5 {
+    color: yellow;
+    font-size: 30px;
+    font-family: fantasy;
 
+
+}
 
 
 

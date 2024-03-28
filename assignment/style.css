@@ -39,7 +39,12 @@ color:aqua;
 
 }
 /* Put a border around your image */
+img {
+    border: 3px;
 
+
+
+}
 /* Change the font-family of your list */
 li {
 font-family: monospace;
